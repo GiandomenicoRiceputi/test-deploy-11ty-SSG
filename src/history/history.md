@@ -1,6 +1,8 @@
 ---
+layout: "layouts/base.html"
 title: "History of Guatemala"
 bannerContent: "Guatemala is a vibrant and diverse country with a rich history."
+pageId: "history"
 ---
 
 ## History of Guatemala
